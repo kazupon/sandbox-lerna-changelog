@@ -1,11 +1,16 @@
 {
   "name": "sandbox-lerna-changelog",
-  "version": "0.0.0",
   "description": "this is sandbox for lerna-changelog ",
+  "version": "0.0.0",
+  "changelog": {
+    "labels": {
+      "feature": ":star: Features",
+      "bug": ":bug: Bug Fixes"
+    }
+  },
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT"
+  }
 }
