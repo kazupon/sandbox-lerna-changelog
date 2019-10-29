@@ -15,9 +15,12 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\"",
+    "release:prepare": "shipjs prepare",
+    "release:trigger": "shipjs trigger"
   },
   "devDependencies": {
-    "lerna-changelog": "^0.8.2"
+    "lerna-changelog": "^0.8.2",
+    "shipjs": "^0.8.0"
   }
 }
