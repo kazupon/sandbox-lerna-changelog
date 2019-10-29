@@ -8,6 +8,10 @@
       "bug": ":bug: Bug Fixes"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kazupon/sandbox-lerna-changelog.git"
+  },
   "license": "MIT",
   "main": "index.js",
   "scripts": {
