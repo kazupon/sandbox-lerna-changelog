@@ -1,7 +1,7 @@
 {
   "name": "sandbox-lerna-changelog",
   "description": "this is sandbox for lerna-changelog ",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "changelog": {
     "labels": {
       "feature": ":star: Features",
