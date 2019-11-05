@@ -21,6 +21,6 @@
   },
   "devDependencies": {
     "lerna-changelog": "^0.8.2",
-    "shipjs": "^0.8.0"
+    "shipjs": "^0.8.1"
   }
 }
