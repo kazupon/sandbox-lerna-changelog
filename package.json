@@ -17,6 +17,7 @@
   "scripts": {
     "test": "echo \"Test!\"",
     "build": "echo \"build!\"",
+    "docs": "echo \"documentations!\"",
     "release:prepare": "shipjs prepare",
     "release:trigger": "shipjs trigger"
   },
