@@ -1,3 +1,14 @@
+
+## v0.2.2 (2019-11-06)
+
+#### :bug: Bug Fixes
+* [#32](https://github.com/kazupon/sandbox-lerna-changelog/pull/32) fix: lockfile ([@kazupon](https://github.com/kazupon))
+* [#26](https://github.com/kazupon/sandbox-lerna-changelog/pull/26) fix: add prefix ([@kazupon](https://github.com/kazupon))
+* [#22](https://github.com/kazupon/sandbox-lerna-changelog/pull/22) fix: changelog ([@kazupon](https://github.com/kazupon))
+
+#### Committers: 1
+- kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
+
 ## v0.2.1 (2019-11-06)
 
 #### :bug: Bug Fixes
