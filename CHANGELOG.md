@@ -1,4 +1,4 @@
-## 0.2.1 (2019-11-06)
+## v0.2.1 (2019-11-06)
 
 #### :bug: Bug Fixes
 * [#15](https://github.com/kazupon/sandbox-lerna-changelog/pull/15) fix: add docs script ([@kazupon](https://github.com/kazupon))
@@ -6,7 +6,7 @@
 #### Committers: 1
 - kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
 
-## 0.2.0 (2019-11-05)
+## v0.2.0 (2019-11-05)
 
 #### :star: Features
 * [#6](https://github.com/kazupon/sandbox-lerna-changelog/pull/6) feat: add shipjs config ([@kazupon](https://github.com/kazupon))
