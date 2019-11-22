@@ -1,4 +1,13 @@
 
+## v0.2.3 (2019-11-22)
+
+#### :star: Features
+* [#35](https://github.com/kazupon/sandbox-lerna-changelog/pull/35) :pushpin: dependency: upgrade ([@kazupon](https://github.com/kazupon))
+
+#### Committers: 1
+- kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
+
+
 ## v0.2.2 (2019-11-06)
 
 #### :bug: Bug Fixes
