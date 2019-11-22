@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "lerna-changelog": "^0.8.2",
-    "shipjs": "git+ssh://git@github.com/algolia/shipjs.git#d4db50c7729b1ba6f1844034e4fdd5b6128d0ec9"
+    "shipjs": "file:../../opensource/shipjs/packages/shipjs"
   }
 }
