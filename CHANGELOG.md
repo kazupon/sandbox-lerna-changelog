@@ -1,4 +1,13 @@
 
+## v0.2.5 (2019-11-23)
+
+#### :bug: Bug Fixes
+* [#40](https://github.com/kazupon/sandbox-lerna-changelog/pull/40) update docs ([@kazupon](https://github.com/kazupon))
+
+#### Committers: 1
+- kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
+
+
 ## v0.2.4 (2019-11-22)
 
 #### :bug: Bug Fixes
