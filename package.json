@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "lerna-changelog": "^0.8.2",
+    "semver": "^6.3.0",
     "shipjs": "file:../../opensource/shipjs/packages/shipjs"
   }
 }
