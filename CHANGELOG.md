@@ -1,4 +1,13 @@
 
+## v0.2.9 (2019-11-24)
+
+#### :star: Features
+* [#48](https://github.com/kazupon/sandbox-lerna-changelog/pull/48) fix: update ([@kazupon](https://github.com/kazupon))
+
+#### Committers: 1
+- kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
+
+
 ## v0.2.8 (2019-11-23)
 
 #### :bug: Bug Fixes
