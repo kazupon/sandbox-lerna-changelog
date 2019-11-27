@@ -1,3 +1,21 @@
+
+## v0.3.0 (2019-11-27)
+
+#### :star: Features
+* [#55](https://github.com/kazupon/sandbox-lerna-changelog/pull/55) update docs ([@kazupon](https://github.com/kazupon))
+
+#### Committers: 1
+- kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
+
+# [0.3.0](https://github.com/kazupon/sandbox-lerna-changelog/compare/v0.2.9...v0.3.0) (2019-11-27)
+
+
+### Bug Fixes
+
+* update docs ([#55](https://github.com/kazupon/sandbox-lerna-changelog/issues/55)) ([f5dd399](https://github.com/kazupon/sandbox-lerna-changelog/commit/f5dd39928a82d161be6d79bed93627b90ed9ebb2))
+
+
+
 Must provide GITHUB_AUTH
 
 ## [0.2.9](https://github.com/kazupon/sandbox-lerna-changelog/compare/v0.2.8...v0.2.9) (2019-11-27)
