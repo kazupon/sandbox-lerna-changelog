@@ -1,3 +1,19 @@
+Must provide GITHUB_AUTH
+
+## [0.2.9](https://github.com/kazupon/sandbox-lerna-changelog/compare/v0.2.8...v0.2.9) (2019-11-27)
+
+
+### Bug Fixes
+
+* update ([#48](https://github.com/kazupon/sandbox-lerna-changelog/issues/48)) ([29203d2](https://github.com/kazupon/sandbox-lerna-changelog/commit/29203d29ae4865396821a8aa99a82b5a089ef2fa))
+
+
+### Features
+
+* semver ([#51](https://github.com/kazupon/sandbox-lerna-changelog/issues/51)) ([be3ce57](https://github.com/kazupon/sandbox-lerna-changelog/commit/be3ce5758b24af30c960130d1955bea714c3e4a4))
+
+
+
 
 ## v0.2.8 (2019-11-23)
 
