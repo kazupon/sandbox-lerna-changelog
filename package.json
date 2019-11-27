@@ -22,7 +22,7 @@
     "release:trigger": "shipjs trigger"
   },
   "devDependencies": {
-    "lerna-changelog": "^0.8.2",
+    "lerna-changelog": "^0.10.0",
     "semver": "^6.3.0",
     "shipjs": "file:../../opensource/shipjs/packages/shipjs"
   }
