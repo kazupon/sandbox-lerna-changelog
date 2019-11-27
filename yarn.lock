@@ -1298,7 +1298,7 @@ lcid@^2.0.0:
   dependencies:
     invert-kv "^2.0.0"
 
-lerna-changelog@^0.10.0:
+lerna-changelog@^0.8.3:
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/lerna-changelog/-/lerna-changelog-0.8.3.tgz#6aa494d7b486c27e8d5b5814a2b588f6e4b24aef"
   integrity sha512-0xRxR/J10cBdek2RjG+4eOpYr5UgxcHQr6BEXzPxQu4U7AD5k6ETU1S5QDyHel/lfSmTlwEEwWOqE4LBekFvAA==
@@ -2207,8 +2207,10 @@ shipjs-lib@0.10.0:
     semver "6.3.0"
     shelljs "0.8.3"
 
-"shipjs@file:../../opensource/shipjs/packages/shipjs":
+shipjs@^0.10.0:
   version "0.10.0"
+  resolved "https://registry.yarnpkg.com/shipjs/-/shipjs-0.10.0.tgz#f86a15fec78c891f6627c200cb708887e7779c14"
+  integrity sha512-seRzpMyGCKTDO1rDL9bO3cctxCZIGTTJ4RfabYUb5670lHy0dhLSRkhsNaMfzogjsaxI+VXysV/nRRyXM2h8eg==
   dependencies:
     "@babel/runtime" "^7.6.3"
     "@slack/webhook" "^5.0.1"
