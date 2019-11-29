@@ -1,4 +1,17 @@
 
+## v0.3.1 (2019-11-29)
+
+#### :bug: Bug Fixes
+* [#57](https://github.com/kazupon/sandbox-lerna-changelog/pull/57) deps: upgrade shipjs ([@kazupon](https://github.com/kazupon))
+
+#### Committers: 1
+- kazuya kawaguchi ([@kazupon](https://github.com/kazupon))
+
+## [0.3.1](https://github.com/kazupon/sandbox-lerna-changelog/compare/v0.3.0...v0.3.1) (2019-11-29)
+
+
+
+
 ## v0.3.0 (2019-11-27)
 
 #### :star: Features
